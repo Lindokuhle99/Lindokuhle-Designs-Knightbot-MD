@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Mr Robot',
+  packname: 'LindoBot',
   author: '‎',
   botName: "Lindo Bot",
   botOwner: 'Lindokuhle Designs', // Your name
-  ownerNumber: '27698499721', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '27657006860', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
